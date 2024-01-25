@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: chavantfou/lab-CICD:latest
+          tags: chavantfou/lab-cicd:latest
