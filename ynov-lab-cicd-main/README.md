@@ -1,1 +1,0 @@
-# ynov-lab-cicd
