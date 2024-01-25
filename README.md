@@ -1,1 +1,1 @@
-# lab-CICD
+# ynov-lab-cicd
